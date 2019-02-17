@@ -5,7 +5,7 @@
 ; Author : patel
 ;
 
-; PRACHI PATEL CPE 301 Design Assignment 1A
+; PRACHI PATEL Design Assignment 1A
 
 .include<m328pdef.inc>
 .cseg
